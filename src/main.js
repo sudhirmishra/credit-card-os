@@ -24,6 +24,7 @@ const BRAND_PRIORITY = {
   "BigBasket": 75,
   "Blinkit Gift Card": 70,
   "CLAYCO": 65,
+  "Croma": 50,
 };
 
 let BRANDS = [];
